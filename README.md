@@ -2,7 +2,7 @@
 
 HabitTracker is a web application designed to help users create, update, delete, and track their habits on a daily basis. It is a user-specific app, allowing individuals to monitor their habits and mark them as done or not done. The project is built using a tech stack that includes Node.js for server-side scripting, Express for handling HTTP requests and routing, MongoDB for data storage and management, and EJS for rendering views and templates.
 
-![Home Page](assets\img\Home_page.png)
+![Home Page](./assets/img/Home_page.png)
 
 ## Table of Contents
 
@@ -94,15 +94,15 @@ Habit Tracker
 
 ### Sign-up Page
 
-![Sign-up Page](assets\img\Sign-up page.png)
+![Sign-up Page](./assets/img/Sign-up%20page.png)
 
 ### Sign-in Page
 
-![Sign-in Page](assets\img\Sign-in page.png)
+![Sign-in Page](./assets/img/Sign-in%20page.png)
 
 ### Weekly View Page
 
-![Weekly View Page](assets\img\Weekly View Page.png)
+![Weekly View Page](./assets/img/Weekly%20View%20Page.png)
 
 ## Contributing
 
