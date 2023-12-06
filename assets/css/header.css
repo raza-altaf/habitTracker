@@ -1,0 +1,80 @@
+/* Set basic styling for the entire body */
+body {
+  margin: 0;
+}
+
+/* Styling for navigation bar */
+.nav {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(16, 133, 151); /* Set background color */
+  width: 100%;
+  height: 70px;
+}
+
+/* Styling for the title in the navigation bar */
+.title {
+  font-weight: 900;
+  padding: 10px;
+}
+
+/* Styling for links within the title */
+.title a {
+  font-size: 40px;
+  text-decoration: none;
+  color: #fff; /* Set link color */
+}
+
+/* Styling for user-related elements */
+.userPresent {
+  display: flex;
+  font-weight: 600;
+}
+
+/* Styling for the name of the user */
+.nameOfUser {
+  font-size: 30px;
+  color: rgb(233, 252, 255);
+  padding: 10px;
+  margin: 4px;
+}
+
+/* Styling for the log out text */
+.logOut {
+  font-size: 30px;
+  margin: 6px;
+  padding: 10px;
+}
+
+/* Styling for links within the log out text */
+.logOut a {
+  text-decoration: none;
+  color: rgb(233, 252, 255);
+}
+
+/* Styling for elements when no user is present */
+.noUser ul {
+  display: flex;
+  margin: 10px;
+  justify-content: space-between;
+}
+
+/* Styling for list items within the no user section */
+.noUser li {
+  list-style: none;
+  font-size: 20px;
+  padding: 10px;
+  font-weight: 600;
+}
+
+/* Styling for links within list items of no user section */
+.noUser li a {
+  text-decoration: none;
+  color: rgb(233, 252, 255);
+}
+
+/* Hover effect for list items in no user section */
+.noUser li:hover {
+  text-decoration: underline 1px;
+  text-decoration-color: rgb(233, 252, 255);
+}
