@@ -8,7 +8,6 @@ HabitTracker is a web application designed to help users create, update, delete,
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Folder Structure](#folder-structure)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
 
@@ -45,50 +44,6 @@ Once the application is running, follow these steps to make the most of it:
 - To delete a habit, click on the "Delete" icon next to it.
 - To view today's habits, click on the "Show Daily" button.
 - To edit a habit, click on the "Edit" icon next to it.
-
-## Folder Structure
-
-```
-Habit Tracker
-    |
-    |               |--->css
-    |--->assets---->|--->img
-    |               |---> js
-    |
-    |               |--->flashMiddleware.js
-    |--->config---->|--->mongoose.js
-    |               |--->passport_local.js
-    |
-    |                  |-->habit_controller.js
-    |--->controllers-->|-->home_controller.js
-    |                  |-->user_controller.js
-    |
-    |               |-->habit.js
-    |--->models---->|
-    |               |-->user.js
-    |
-    |
-    |               |-->habit.js
-    |--->routes---->|-->index.js
-    |               |-->user.js
-    |
-    |
-    |              |--->_header.ejs
-    |              |--->404.ejs
-    |              |--->daily_view.ejs
-    |              |--->forget_password.ejs
-    |--->views---->|--->home.ejs
-    |              |--->layout.ejs
-    |              |--->user_sign_in.ejs
-    |              |--->user_sign_up.ejs
-    |              |--->weekly_view.ejs
-    |
-    |-->node_modules
-    |-->.gitignore
-    |--> index.js
-    |--> package-lock.json
-    |-->package.json
-```
 
 ## Screenshots
 
