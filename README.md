@@ -59,6 +59,6 @@ Once the application is running, follow these steps to make the most of it:
 
 ![Weekly View Page](./assets/img/Weekly%20View%20Page.png)
 
-## Contributing
+## Contribution
 
-Contributions are always welcome! If you have any suggestions for improving this application, please feel free to create a pull request or open an issue.
+Contributions are welcome! If you find a bug or have an idea for an improvement, feel free to open an issue or submit a pull request.
